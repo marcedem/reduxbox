@@ -13,7 +13,7 @@ Well according to their amazing website, this is what [**REDUX**](http://redux.j
 
 > It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger.
 
-![alt text](https://goo.gl/Cxnknd "Reducer in Images")
+![alt text](./readme-img/reducer.png "Reducer in Images")
 
 ### Getting Started
 
