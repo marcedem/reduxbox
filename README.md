@@ -4,7 +4,7 @@ Getting hands dirty with [Redux](https://www.udemy.com/react-redux/). Please be 
 
 ### What is a reducer?
 Don't worry, me too I was wondering about it for a long time.
-> So a **REDUCER** is a function that return a piece of the application state
+> So a **REDUCER** is a function that return a piece of the application state (value of the state)
 
 
 ### Okay, what about Redux itself?
