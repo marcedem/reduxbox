@@ -1,6 +1,6 @@
 # ReduxBox
 
-Getting hands dirty with [Redux](https://www.udemy.com/react-redux/). Please be kind and don't _laugh_
+Getting hands dirty with [Redux](http://redux.js.org/docs/basics/UsageWithReact.html). Please be kind and don't _laugh_
 
 ### What is a reducer?
 Don't worry, me too I was wondering about it for a long time.
