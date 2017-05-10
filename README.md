@@ -37,6 +37,8 @@ A container is a react component that has a direct connection to the state manag
 ### Where do you get all this informations from? 
 :P Well 500 years ago, my ancerstor was named [Google](https://www.google.com) and ... Well let me keep the secret for now .. 
 
+### You should check the big PICTURE .. Always!! 
+![alt text](./readme-img/appLogic.png "Big Picture or Logic behind the App")
 
 ### Getting Started
 
